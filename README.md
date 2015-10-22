@@ -1,2 +1,2 @@
 # wordpress-theme
-Them for wordpress
+Theme for wordpress
